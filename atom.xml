@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://leonccccc.github.io</id>
+    <title>鱼塘</title>
+    <updated>2023-04-23T10:26:47.813Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://leonccccc.github.io"/>
+    <link rel="self" href="https://leonccccc.github.io/atom.xml"/>
+    <subtitle>钓上条大鱼吧！</subtitle>
+    <logo>https://leonccccc.github.io/images/avatar.png</logo>
+    <icon>https://leonccccc.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 鱼塘</rights>
+    <entry>
+        <title type="html"><![CDATA[记录一下心血来潮的想法]]></title>
+        <id>https://leonccccc.github.io/post/ji-lu-yi-xia-xin-xie-lai-chao-de-xiang-fa/</id>
+        <link href="https://leonccccc.github.io/post/ji-lu-yi-xia-xin-xie-lai-chao-de-xiang-fa/">
+        </link>
+        <updated>2023-04-23T10:18:55.000Z</updated>
+        <content type="html"><![CDATA[<p>已经一年多没有精力来折腾blog了，现在用的是已有的客户端和别人打包好的服务，但是这个客户端现在已经失去了生命力，所以多少有点想更换的想法。<br>
+无意间看到了一个叫做xLog的区块链开源博客项目，有很多人在为这个项目做贡献，有种蓬勃发展的感觉<br>
+虽然我现在完全不知道区块链是什么，也不知道这种开源的blog对于我这种什么都不会的人折腾起来会有多费劲，但姑且还是先记录下来吧<br>
+看着自己的blog荒废掉还是让人有一种被拔旗的很不爽的感觉。<s>虽然自己确实是三分钟热度就是了</s><br>
+<a href="https://xlog.app">xLog</a><br>
+<a href="https://twitter.com/_xLog">xLog的官方twitter</a><br>
+<a href="https://www.v2ex.com/t/882349">一个大佬的介绍——第一个开源链上博客系统 xLog</a><br>
+<a href="https://diygod.me">以及他的博客实例</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年九月生存纪录]]></title>
+        <id>https://leonccccc.github.io/post/2022-09/</id>
+        <link href="https://leonccccc.github.io/post/2022-09/">
+        </link>
+        <updated>2022-09-28T16:49:57.000Z</updated>
+        <content type="html"><![CDATA[<p>大三对我而言大概是大学四年最重要的时期，上学期尤甚<br>
+然而距开学已一个星期，自己依然没有找到一个平稳的生活和学习节奏<br>
+原因是多方面的，目前自己也在不断反思，先重开这聊胜于无的日记，能起到一丝鞭策作用就好了</p>
+<h2 id="20220901">2022/09/01</h2>
+<ul>
+<li>计网老师上课非常佛系，让人抓不住重点，课上的很累人，需要自己额外重新补习</li>
+<li>Python老师看起来很有能力，教学方式相比而言别出心裁，自己租了linux服务器让学生将作业上传上去，顺手可以熟悉下terminal的基本操作（</li>
+<li>科技英语也不知道在上些啥，老师没有跟着课本讲，纯粹照着自己的节奏在走，然而却要在课堂上完成书本的练习，让人感觉挺尴尬的</li>
+<li>晚上在打游戏</li>
+</ul>
+<h2 id="20220902">2022/09/02</h2>
+<ul>
+<li>算法分析课的老师也让人感觉不到活力。全程尽讲大而空的话，明明有三节课却什么也没学到，</li>
+<li>下午在捣鼓自行车，下雨后自行车的前刹车片又开始啸叫了，让人非常不爽，扳手的尺寸也买错了，导致牙盘保护罩到现在也没能装上去</li>
+<li>晚上在打游戏</li>
+</ul>
+<h2 id="20220903">2022/09/03</h2>
+<ul>
+<li>上午大睡了一波</li>
+<li>下午是开学后第一次去教学楼自习，本来想去图书馆的，但是预约起来比我想的麻烦的多，准备等明天有空再去看看（大概率是flag了）</li>
+<li>一直自习到晚上10点，总算是把计网的知识点补齐了</li>
+<li>给路由器重新理了线，现在看起来有条理多了</li>
+<li>晚上在床上准备写这条blog，但是突然开始摸鱼刷b站，写到这里已经是凌晨三点了，明天还有很多事要做，希望人没事</li>
+</ul>
+<h2 id="20220904">2022/09/04</h2>
+<ul>
+<li>早上起床后把宿舍大扫除了一遍，果然还是拖地让人神清气爽</li>
+<li>下午去教学楼复习本周学的基本功课，有几门上的不知所以然因此也就随便看看了事了，等下周接收上后续的内容</li>
+<li>舍友开始打彩虹六号了，如果他们真的感兴趣的话就能愉快开黑了</li>
+<li>现在的舍友比起前两年的确实是多了不少GAME的成分，虽说兴趣的交汇区域还是不算大，但是也在想办法找些共同话题</li>
+<li>不过绝对不能被游戏占据了生活啊，幸好数学建模的队友把我拉出了宿舍，否则就大概整天都在电脑前打游戏了</li>
+<li>其实还是没有脱离暑假的生活状态</li>
+</ul>
+<h2 id="20220905">2022/09/05</h2>
+<ul>
+<li>早上起床后去院楼办了个手续</li>
+<li>下午基本都在上JavaEE，是现在少有的能让我感觉到些许安心的课程了，因为老师能让人感觉到可靠感</li>
+<li>上完课后去拿了快递，新到的扳手尺寸合适，但是螺丝似乎因为生锈所以无法拧开，不仅没拧开还把螺丝边缘弄得十分光滑，目前暂且搁置。买了除锈剂，希望能起到一些作用</li>
+<li>晚上的水课这次是直播上的，老师的一席话给了我不少压力，似乎这节课并没有想象中那么好水，但是老师上课的风格我并不是很喜欢，一幅高高在上的样子还一个劲地钓鱼，不好说</li>
+<li>晚上的课结束之后就和舍友开始打彩六了，游戏过程并没有我想的那么愉快</li>
+<li>最近的心情总有些压抑，但是暂时还没找到排解的办法，不是很想社交，所以现在连食堂都不想去，人太多了</li>
+<li>去询问学长关于目前自己学的几门课的信息，可惜学长的在更换设备后复习资料全都没了，安全感骤降。虽说知道脚踏实地学是最好的办法，但是总有些投机惯了</li>
+<li>今天课程的内容还没整理，只能往后拖了</li>
+<li>一直想着要开始背单词，但是总没迈出那一步，明天可以吗？</li>
+<li>明天早上约好和舍友去买早餐吃，大概是个flag吧，我还想自己泡杯咖啡喝</li>
+</ul>
+<h2 id="20220906">2022/09/06</h2>
+<ul>
+<li>因为很懒所以拖了一天才写</li>
+<li>早上和舍友8点半起床去食堂买豆腐花，结果已经卖完了</li>
+<li>回宿舍后小打了一会游戏后把上午的课水了，老师完全不按套路讲课让我很迷惑</li>
+<li>下午去教学楼自习，把昨天JavaEE的内容全部整理到了笔记上</li>
+<li>回宿舍后打游戏</li>
+<li>最近在看电视剧《隐秘的角落》，剧情很带感，人物塑造也很出色</li>
+</ul>
+<h2 id="20220907">2022/09/07</h2>
+<ul>
+<li>和舍友一起提早了半个小时起床，8点去食堂，结果豆腐花依然卖完了，询问之后的回复是平时的售罄时间是在七点半左右...大概要接着早起了</li>
+<li>因为上午没课所以大打游戏，打了整整一上午</li>
+<li>下午水了一节课，老师讲课速度很慢，大概有半节课都在讲故事，提取不出考点信息</li>
+<li>下课后去教学楼办理一些手续并咨询了一下请假的相关事宜，中秋准备请假回家</li>
+<li>但是又突然听说学校禁止中秋放假回家，让我有些摸不着头脑，申请已经递交了，等明天再看结果把</li>
+<li>最近没有什么生活的激情和动力，依然处于沉沦的状态之中，虽然不想甩锅，但是确实和宿舍环境有着很大的关系，怎样才能让自己提起勇气跑图书馆呢</li>
+<li>今天依然没有开始背单词，咖啡也没有泡成，明天的豆腐花大概也泡汤了（现在是凌晨一点）</li>
+</ul>
+<h2 id="20220908">2022/09/08</h2>
+<ul>
+<li>拖延症捏</li>
+<li>豆腐花确实没吃成，甚至没有及时起床，上午的计网课混过去了</li>
+<li>下午两节课也都没有什么营养，迷迷糊糊上完了</li>
+<li>在下午的课程间隙跑去教学楼咨询了一下请假事宜，最终还是能够请假的，可喜可贺</li>
+<li>晚上第一次泡了摩卡（其实就是热牛奶兑巧克力和浓缩咖啡），整理行李浪费了一整晚的时间</li>
+<li>有些放松于是就边吃薯片边补电视剧了</li>
+<li>...</li>
+<li>大概是晚上没吃晚饭又嗯造膨化食品的原因，晚上感觉肚子不舒服。同时因为电视剧的压抑氛围太过强烈，睡觉时脑海里全是阴郁的场景，喘不过气来，很难受。</li>
+</ul>
+<h2 id="20220909">2022/09/09</h2>
+<ul>
+<li>早上的课挂了录播之后就接着睡觉了，四肢乏力</li>
+<li>化身喷射战士 × 3</li>
+<li>中午告别舍友踏上归途</li>
+<li>回家后也没啥力气，久违地泡了个澡</li>
+<li>摸摸鱼时间就过去了</li>
+</ul>
+<h2 id="20220910">2022/09/10</h2>
+<ul>
+<li>7点就醒了，但是躺床上玩电子设备玩到了11点才起床</li>
+<li>下午把本周落下的作业都完成了</li>
+<li>但是落下的课程进度还没开始补，完全忘记带回来的一叠书了属于是</li>
+<li>总之晚上我也不知道做了什么，一天就又过去了</li>
+<li>今天大概是唯一能好好放松的一天了，明天去诊所复诊</li>
+</ul>
+<h2 id="20220911">2022/09/11</h2>
+<ul>
+<li>去看牙，大半天时间没了</li>
+<li>回来后想看看书，发现没心思看</li>
+<li>刷刷论坛看了些杂文小说</li>
+</ul>
+<h2 id="20220912">2022/09/12</h2>
+<ul>
+<li>白天回学校了，还是呆家里舒服</li>
+<li>回校后把自行车的牙盘保护罩装上了，刹车不知如何清理，轮胎似乎磨损有些严重</li>
+<li>明天第一天线下课</li>
+</ul>
+<h2 id="20220913">2022/09/13</h2>
+<ul>
+<li>上午第一节线下课，老师让我有点小失望，上课准备并不充分，甚至与书本讲的内容出现出入而不自知</li>
+<li>下午先去做了核酸，之后在宿舍摸鱼，查了些留学相关的资料，终于背了一次单词</li>
+<li>晚上去上课，内容实在太多了，一节课一章节，我是学计算机的，不代表我大脑就是计算机啊...</li>
+<li>下课后沿着学校骑了几圈，找了一个自认为还不错的骑行路线，之后要是可以的话就多骑一骑吧</li>
+</ul>
+<h2 id="20220914">2022/09/14</h2>
+<ul>
+<li>在床上赖到十点才起床</li>
+<li>终于把《隐秘的角落》看完了，最后几集和前面相比节奏变快，略微有些赶，但也确实是部好片子</li>
+<li>摸鱼摸到下午第一节课</li>
+<li>数据存储技术到老师也十分佛系，现在感觉自己上课到热情正在被逐渐消磨，这不是好迹象</li>
+<li>本来下课之后想去图书馆，结果图书馆到签到终端坏了，导致没法签到，结果被记了超时，还扣了信誉分，有点气愤</li>
+<li>回宿舍之后和舍友打csgo，连输两把</li>
+<li>今天也背单词了</li>
+<li>把明天英语课的课文预习了一下，现在英语大概是唯一一个能让我提起兴趣去学的东西了orz</li>
+</ul>
+<h2 id="20220915">2022/09/15</h2>
+<ul>
+<li>最近生活节奏很乱</li>
+<li>一整天都是课</li>
+<li>Python和英语课还能带给我些许安心的感觉</li>
+<li>今天晚上六点开始数学建模国赛</li>
+<li>赶去教学楼开了个班会，班主任大灌了一波鸡汤</li>
+</ul>
+<h2 id="20220916">2022/09/16</h2>
+<ul>
+<li>上午是算法分析，老师能感觉出来知识储备丰富，但是讲课的水平还是稍欠一些</li>
+<li>下午去教学楼参与建模竞赛</li>
+<li>今晚没有回宿舍，准备在教学楼通宵</li>
+</ul>
+<h2 id="20220917">2022/09/17</h2>
+<ul>
+<li>澡没洗，脖子痛，很不爽</li>
+<li>上午回宿舍休息了一下之后，下午接着在教学楼干活</li>
+<li>晚上回宿舍休整了，洗上澡的感觉真好</li>
+</ul>
+<h2 id="20220918">2022/09/18</h2>
+<ul>
+<li>早上睡了个懒觉，之后去教室全力协助队友一起完成论文的撰写</li>
+<li>其实自己并没有起什么作用，说实话挺对不起他们的</li>
+<li>回宿舍后感觉事情又少了一件，和好友开了个新坑——夜族崛起，感觉是个有点缝合的游戏，把大菠萝风格的rpg融到了建造沙盒里，感觉很奇妙</li>
+</ul>
+<h2 id="20220919">2022/09/19</h2>
+<ul>
+<li>又是一个新的周一，睡到十点才起床</li>
+<li>第一次JaveEE线下课，老师很有趣，少有的几个让我主动想上线下课的课程</li>
+<li>回去继续和好友一起打游戏</li>
+<li>突然得知大英竞赛其实成功报名了，之前一直以为自己没有报名，于是决定接下来几天临时抱一抱佛脚了</li>
+<li>生活还是十分不规律又不健康，日记也是两天一写，很糟糕</li>
+</ul>
+<h2 id="20220920">2022/09/20</h2>
+<ul>
+<li>今天上午睡了个懒觉，之后去上计网，尝试在课上补网课，但是效果很差，最后还被老师叫上讲台回答问题，没有做出来，很丢人</li>
+<li>下午想在宿舍补点计网的内容，但是并没有看得进去，还困得睡了一觉orz</li>
+<li>晚上的软件设计课光明正大地坐第一排摸鱼，把昨天JavaEE课上的笔记补完了，然后把大英赛的卷子拿出来做了几题，在课临近结束的时候正好有个大英赛的卷子讲解，但是同样效果并不是很好，随便听听就了事了</li>
+<li>舍友开始看奇蛋物语了，有点小惊喜</li>
+</ul>
+<h2 id="20220921">2022/09/21</h2>
+<ul>
+<li>上午睡了个懒觉</li>
+<li>中午开始看《青春猪头少年不会梦到兔女郎学姐》<s>名字好长</s>，第一集观感还不错</li>
+<li>下午上了节水课</li>
+<li>下课后直接骑车出校去机厅找朋友玩，大半年后第一次重新打maimai，手感很差</li>
+<li>回宿舍后补习了一些计网的相关内容，主要还是在摸鱼</li>
+</ul>
+<h2 id="20220922">2022/09/22</h2>
+<ul>
+<li>满课的一天</li>
+<li>计网上的很懵，进度已经落下了，得补</li>
+<li>下午的两节课也挺水的，并没有留下太深的印象</li>
+<li>晚上干啥了来着</li>
+</ul>
+<h2 id="20220923">2022/09/23</h2>
+<ul>
+<li>早八，在算法课上把python作业做了大半，最后老师布置了一个课堂作业，勉勉强强完成了，但是算法的逻辑是完全不理解，开始焦虑了，准备回去看Acwing</li>
+<li>昨天约了图书馆，因此今天下午第一次在图书馆坐了几小时，氛围确实挺好，把软件设计的课后作业做了下，顺带把python补完了，又做了一点大英竞赛的题目，依然不是特别有底</li>
+<li>最近在忙综测评分，还挺麻烦的，事情略多</li>
+<li>已经好久没背单词了，麻</li>
+</ul>
+<h2 id="20220924">2022/09/24</h2>
+<ul>
+<li>早上睡懒觉+摸鱼</li>
+<li>下午马马虎虎上了个雅思课，但是状态很差</li>
+<li>晚上去图书馆恶补大英竞赛。第一次坐二楼的位置，椅子很舒服，但是能听到门口刷门禁卡的声音，很烦人。完整做了一张卷子，感觉还不错</li>
+</ul>
+<h2 id="20220925">2022/09/25</h2>
+<ul>
+<li>早上大英竞赛，试卷勉勉强强做完了，但是不知是题目偏难还是状态不佳，不符合自己的预期，但是自己本来准备时间就没多少，也不抱怨啥了</li>
+<li>下午上雅思口语，只觉得这是道难关。想要如何把每个话题都好好表述出来属实挺难的，脑子里空空如也</li>
+<li>晚上和朋友打游戏</li>
+</ul>
+<h2 id="20220926">2022/09/26</h2>
+<ul>
+<li>上午约了次图书馆，把计网赶上进度了</li>
+<li>下午上JavaEE，开始有些跟不上节奏了，这是思想上的不同步，需要课后再多加理解才行</li>
+<li>晚上久违地在食堂吃了顿饭，发现食堂的咖喱既便宜味道也不错，有接着去的欲望了</li>
+<li>回宿舍后上摸鱼课</li>
+<li>下课后和朋友联机HELLDIVERS，继续昨天没打完的高难本，一个关卡打了两个半小时都没过，最后因为停电不得不作罢，说实话有些不甘心（</li>
+<li>一边吃着零食一边刷着视频到了凌晨</li>
+</ul>
+<h2 id="20220927">2022/09/27</h2>
+<ul>
+<li>睡到上课时间才起床</li>
+<li>计网纯纯摸鱼了，什么事也没干</li>
+<li>下午去图书馆把JavaEE的知识点整理了一下，时间卡得刚刚好</li>
+<li>晚上的课边摸鱼边看看python，但其实也没看进去。课程示例的程序我这里运行出来有些显示上的问题，不知道应该如何解决</li>
+<li>明天一整天都没课，本来准备去图书馆泡一整天的，朋友拉我出去玩，想了想上午还是放松一下吧</li>
+</ul>
+<h2 id="20220928">2022/09/28</h2>
+<ul>
+<li>上午出门和朋友一起去游戏厅</li>
+<li>中午吃了个卤肉面（大概？）还挺香的</li>
+<li>下午去图书馆看了一下午的算法，算是迈出第一步了</li>
+<li>晚上老舍友来宿舍串门，弄这弄那整了不少时间</li>
+<li>和舍友一起打sc2，虽然没什么贡献但是打得很开心，感谢舍友不嫌弃我</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Java】汉诺塔问题]]></title>
+        <id>https://leonccccc.github.io/post/HanoiTower/</id>
+        <link href="https://leonccccc.github.io/post/HanoiTower/">
+        </link>
+        <updated>2022-07-21T12:55:36.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>呃，说实话我没看懂这算法的递归执行思想，但是从感性的角度出发确实是能很流畅地把代码敲出来了</p>
+</blockquote>
+<h2 id="1-问题">1. 问题</h2>
+<p>有三根柱子，在一根柱子上从小到大摞着<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span>个圆片，要求将这<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathdefault">n</span></span></span></span>个圆片按其大小顺序叠放到另一根柱子上，且自始至终小圆片的上部都不能叠放大圆片。<br /></p>
+<h2 id="2-解决方案">2. 解决方案</h2>
+<pre><code class="language-java">package Recursion;
+/*
+    1. 形参 abc 不代表 实参 ABC 三根柱子，而是&quot;起始&quot;、&quot;过渡&quot;、&quot;终点&quot;三根柱子
+    2. &quot;起始&quot;、&quot;过渡&quot;、&quot;终点&quot;是形参！
+    3.不同情况下，abc是不同的
+    4.else：
+        起始问题 A上的num挪到C，BC为空，可以任意挪动
+        A上面的一摞(num-1)挪到B，所以&quot;起始&quot;=A，过渡=C，终点=B
+        A（底下&amp;最大）A → C
+        B上面的一摞（num-1）挪回A，所以&quot;起始&quot;=B，过渡=C，终点=A
+    5.(num-1) 挪回A之后，之前A最底下的，已经挪到C最底下了
+        目前C上的为最大，不影响AB移动，可以理解为空
+        现在问题回到了4，A上的num-1挪到C，BC为空，可以任意挪动
+        循环完成
+ */
+/**
+ * @author leon_ccc
+ * @date 2022/7/21 08:29
+ */
+public class Hanoi {
+    public static void main(String[] args) {
+        HanoiTest test = new HanoiTest();
+        test.move(3, 'a', 'b', 'c');
+    }
+}
+class HanoiTest {
+    public void move(int num, char a, char b, char c) {
+        if (num == 1) {
+            System.out.println(a + &quot;→&quot; + c);
+        } else {
+            move(num-1, a, c, b);
+            System.out.println(a + &quot;→&quot; + c);
+            move(num-1, b, a, c);
+        }
+    }
+}
+</code></pre>
+<h2 id="3-思路分析">3. 思路分析</h2>
+<h3 id="浅薄的认知">浅薄的认知</h3>
+<p>无论圆片叠了多少，都将它们分成两个部分看：最下面的一个圆片和它上面的所有圆片<br />每次移动的目标都是将最下面的圆片挪到目标的柱子上（假设这里是从<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>柱挪到<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>柱），因此所要完成的步骤便是：</p>
+<ol>
+<li>将顶上所有其它圆片挪到<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi></mrow><annotation encoding="application/x-tex">B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span>柱</li>
+<li>将最底下的圆片挪到<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>柱</li>
+<li>将顶上所有其它圆片挪到<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>柱</li>
+</ol>
+<p>以上的步骤通过递归实现即可</p>
+<h3 id="也许更有道理的解释">也许更有道理的解释</h3>
+<ol>
+<li>形参<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mi>b</mi><mi>c</mi></mrow><annotation encoding="application/x-tex">abc</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">a</span><span class="mord mathdefault">b</span><span class="mord mathdefault">c</span></span></span></span>不代表实参<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>B</mi><mi>C</mi></mrow><annotation encoding="application/x-tex">ABC</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>三根柱子，而是<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">“</mi><mi mathvariant="normal">起</mi><mi mathvariant="normal">始</mi><mi mathvariant="normal">”</mi></mrow><annotation encoding="application/x-tex">“起始”</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord">“</span><span class="mord cjk_fallback">起</span><span class="mord cjk_fallback">始</span><span class="mord">”</span></span></span></span>、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">“</mi><mi mathvariant="normal">过</mi><mi mathvariant="normal">渡</mi><mi mathvariant="normal">”</mi></mrow><annotation encoding="application/x-tex">“过渡”</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord">“</span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">渡</span><span class="mord">”</span></span></span></span>、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">“</mi><mi mathvariant="normal">终</mi><mi mathvariant="normal">点</mi><mi mathvariant="normal">”</mi></mrow><annotation encoding="application/x-tex">“终点”</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord">“</span><span class="mord cjk_fallback">终</span><span class="mord cjk_fallback">点</span><span class="mord">”</span></span></span></span>三根柱子</li>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">“</mi><mi mathvariant="normal">起</mi><mi mathvariant="normal">始</mi><mi mathvariant="normal">”</mi></mrow><annotation encoding="application/x-tex">“起始”</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord">“</span><span class="mord cjk_fallback">起</span><span class="mord cjk_fallback">始</span><span class="mord">”</span></span></span></span>、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">“</mi><mi mathvariant="normal">过</mi><mi mathvariant="normal">渡</mi><mi mathvariant="normal">”</mi></mrow><annotation encoding="application/x-tex">“过渡”</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord">“</span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">渡</span><span class="mord">”</span></span></span></span>、<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">“</mi><mi mathvariant="normal">终</mi><mi mathvariant="normal">点</mi><mi mathvariant="normal">”</mi></mrow><annotation encoding="application/x-tex">“终点”</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord">“</span><span class="mord cjk_fallback">终</span><span class="mord cjk_fallback">点</span><span class="mord">”</span></span></span></span>是形参！</li>
+<li>不同情况下，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mi>b</mi><mi>c</mi></mrow><annotation encoding="application/x-tex">abc</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathdefault">a</span><span class="mord mathdefault">b</span><span class="mord mathdefault">c</span></span></span></span>是不同的</li>
+<li><code>else</code>中的代码解释：</li>
+</ol>
+<ul>
+<li>起始问题：<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>上的<code>num</code>挪到<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi><mi>C</mi></mrow><annotation encoding="application/x-tex">BC</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>为空，可以任意挪动</li>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>上面的一摞<code>num-1</code>挪到B，所以<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">起</mi><mi mathvariant="normal">始</mi><mo>=</mo><mi>A</mi></mrow><annotation encoding="application/x-tex">起始=A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">起</span><span class="mord cjk_fallback">始</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">过</mi><mi mathvariant="normal">渡</mi><mo>=</mo><mi>C</mi></mrow><annotation encoding="application/x-tex">过渡=C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">渡</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">终</mi><mi mathvariant="normal">点</mi><mo>=</mo><mi>B</mi></mrow><annotation encoding="application/x-tex">终点=B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">终</span><span class="mord cjk_fallback">点</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span></li>
+<li>对<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>（底下&amp;最大）而言，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mo>→</mo><mi>C</mi></mrow><annotation encoding="application/x-tex">A → C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">→</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span></li>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi></mrow><annotation encoding="application/x-tex">B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span>上面的一摞<code>num-1</code>挪回<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>，所以<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">起</mi><mi mathvariant="normal">始</mi><mo>=</mo><mi>B</mi></mrow><annotation encoding="application/x-tex">起始=B</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">起</span><span class="mord cjk_fallback">始</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">过</mi><mi mathvariant="normal">渡</mi><mo>=</mo><mi>C</mi></mrow><annotation encoding="application/x-tex">过渡=C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">过</span><span class="mord cjk_fallback">渡</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">终</mi><mi mathvariant="normal">点</mi><mo>=</mo><mi>A</mi></mrow><annotation encoding="application/x-tex">终点=A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.36687em;vertical-align:0em;"></span><span class="mord cjk_fallback">终</span><span class="mord cjk_fallback">点</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span></li>
+</ul>
+<ol start="5">
+<li><code>num-1</code>挪回<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>之后，之前<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>最底下的，已经挪到<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>最底下了<br />目前<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>上的为最大，不影响<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi><mi>B</mi></mrow><annotation encoding="application/x-tex">AB</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span></span></span></span>移动，可以理解为空<br />现在问题回到了<code>4</code>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>A</mi></mrow><annotation encoding="application/x-tex">A</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault">A</span></span></span></span>上的<code>num-1</code>挪到<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>C</mi></mrow><annotation encoding="application/x-tex">C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>，<span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>B</mi><mi>C</mi></mrow><annotation encoding="application/x-tex">BC</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathdefault" style="margin-right:0.05017em;">B</span><span class="mord mathdefault" style="margin-right:0.07153em;">C</span></span></span></span>为空，可以任意挪动</li>
+</ol>
+<p>最终循环完成</p>
+<blockquote>
+<p>其实这段解释与我的理解相悖，但是看着很有道理还是搬来吧（</p>
+</blockquote>
+<h2 id="4-总结">4. 总结</h2>
+<p>我的理解基于上方<code>浅薄的认知</code>，自认为该题之后学习算法时会再次遇到，因此这里决定先草草过去，之后可能会再更新<br />总之就是用感性的想法来写代码，执行什么的递归什么的，就交给万能的电脑吧（笑</p>
+<h2 id="5-参考资料">5. 参考资料</h2>
+<p><a href="https://www.bilibili.com/video/BV1fh411y7R8?p=226">韩顺平Java P226</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Java】简单的迷宫问题]]></title>
+        <id>https://leonccccc.github.io/post/labyrinth/</id>
+        <link href="https://leonccccc.github.io/post/labyrinth/">
+        </link>
+        <updated>2022-07-20T13:36:31.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>自己对于递归相关的东西一直不够入流，现在感觉似乎找到了解决的办法，先把思路记录下来</p>
+</blockquote>
+<h2 id="1-问题">1. 问题</h2>
+<p>给定一个迷宫，假设在坐标<code>(1, 1)</code>上有一只老鼠，想办法让老鼠走到迷宫的最右下角<br /><br>
+<img src="https://leonccccc.github.io/post-images/1658406569532.png" alt="" loading="lazy"></p>
+<h2 id="2-解决方案">2. 解决方案</h2>
+<pre><code class="language-java">package Recursion;
+/**
+ * @author leon_ccc
+ * @date 2022/7/20 20:08
+ */
+public class Labyrinth {
+    public static void main(String[] args) {
+        // 初始化迷宫
+        int[][] map = new int[8][7];
+        for (int i = 0; i &lt; map.length; i++) {
+            for (int j = 0; j &lt; map[i].length; j++) {
+                if (i == 0 || i == map.length - 1) {
+                    map[i][j] = 1;
+                }
+                if (j == 0 || j == map[i].length - 1) {
+                    map[i][j] = 1;
+                }
+                if (i == 3 &amp;&amp; (j == 1 || j == 2)) {
+                    map[i][j] = 1;
+                }
+//                增加一个障碍，会发生回溯
+//                if (i == 6 &amp;&amp; j == 4) {
+//                    map[i][j] = 1;
+//                }
+            }
+        }
+        LabyTest test = new LabyTest();
+        test.findWay(map, 1, 1);
+        for (int i = 0; i &lt; map.length; i++) {
+            for (int j = 0; j &lt; map[i].length; j++) {
+                System.out.print(map[i][j] + &quot; &quot;);
+            }
+            System.out.println();
+        }
+    }
+}
+class LabyTest {
+    /**
+        思路解读：
+        1. findWay 方法就是用来找出迷宫的路径的
+        2. 如果找到了，就返回 true，否则返回 false
+        3. map 是二维数组，表示迷宫
+        4. i, j 表示老鼠的位置，初始化的位置为 (1, 1)
+        5. 因为用递归的方法寻找路径，所以要先规定好 map 数组的各个值的含义
+            0 表示还未走，1 表示障碍物，2 表示可以走，3 表示走过但是是死路
+        6. 当 map[6][5] = 2 时，说明找到了通路，就可以结束，否则继续找
+        7. 先确定老鼠的找路策略：下，右，上，左
+     */
+    public boolean findWay(int[][] map, int i, int j) {
+        // 0表示未走，1表示障碍，2表示可走，3表示走过但死路
+        if (map[6][5] == 2) {
+            return true;
+        } else {
+            if (map[i][j] == 0) {
+                // 先假定道路可走
+                map[i][j] = 2;
+                // 找路策略：下，右，上，左
+                if (findWay(map, i + 1, j)) {
+                    return true;
+                } else if (findWay(map, i, j + 1)) {
+                    return true;
+                } else if (findWay(map, i - 1, j)) {
+                    return true;
+                } else if (findWay(map, i, j - 1)) {
+                    return true;
+                } else {
+                    map[i][j] = 3;
+                    return false;
+                }
+            } else {
+                return false;
+            }
+        }
+    }
+}
+
+</code></pre>
+<h2 id="3-思路分析">3. 思路分析</h2>
+<ol>
+<li>首先利用二维数组构造出迷宫，定义<code>0</code>为道路，<code>1</code>为障碍物</li>
+<li>定义老鼠所处位置的状态：<code>0</code>为未走过，<code>1</code>为障碍物，<code>2</code>为可走，<code>3</code>为走过但为死路</li>
+<li>设计老鼠寻路的思路：下 → 右 → 上 → 左</li>
+<li>利用递归的方式让老鼠开始寻路，只要是<code>0</code>就能前进，否则就找另外的路</li>
+<li>当四面均不能走时会发生回溯</li>
+</ol>
+<h2 id="4-总结">4. 总结</h2>
+<p>对我个人而言，过度思考递归的代码及底层实现只会让自己的思路越来越混乱<br />因此决定今后遇到递归相关的题目时，避免思考递归时代码嵌套的过程，更多使用感性的认知来思考，如本题找到能走的路就是true，不能走就是false</p>
+<h2 id="5-参考资料">5. 参考资料</h2>
+<p><a href="https://www.bilibili.com/video/BV1fh411y7R8?p=223">韩顺平Java P223</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Java】在数组中插入新元素并保证其升序]]></title>
+        <id>https://leonccccc.github.io/post/java_InsertAndSort/</id>
+        <link href="https://leonccccc.github.io/post/java_InsertAndSort/">
+        </link>
+        <updated>2022-07-14T16:26:15.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>最近在从头开始学Java，这是一道比较基础的数组相关的题目，但是自己思索了一个多小时，最后用一个并不是很优秀的方法做了出来。<br>
+事后反思时，大概是由于自己的思路走向从一开始就出现了偏差，导致整体进行的都不是很顺利，特此将多种解法都记录下来，意在拓宽思考问题时的想法。</p>
+</blockquote>
+<h2 id="1-问题">1. 问题</h2>
+<p>已知有个升序的数组，要求插入一个元素，该数组顺序依然是升序，比如：<br /><code>[10, 12, 45, 90]</code>，添加<code>23</code>后，数组变为<code>[10, 12, 23, 45, 90]</code></p>
+<h2 id="2-解决方案">2. 解决方案</h2>
+<p>共有三种思路，推荐度由前往后递减</p>
+<h3 id="21-先定位后扩容">2.1 先定位，后扩容</h3>
+<pre><code class="language-java">package TwoDimensionalArray;
+
+import java.util.Scanner;
+
+/**
+ * @author leon_ccc
+ * @date 2022/7/14 20:33
+ */
+public class Task2_3 {
+    public static void main(String[] args) {
+        // 思路：先定位，后扩容
+        Scanner scan = new Scanner(System.in);
+        int[] arr = {10, 12, 45, 90};
+        // 此处的 index 用于确认待插入的值在新数组中的位置
+        int index = -1;
+
+        System.out.println(&quot;请输入要插入的值&quot;);
+        int add = scan.nextInt();
+        // 遍历一遍原数组，找到第一个比插入元素大的位置，那里就是插入元素应该在的位置，完成定位
+        for (int i = 0; i &lt; arr.length; i++) {
+            if (add &lt; arr[i]) {
+                index = i;
+                break;//此处一定要及时break跳出，不然之后的结果会将现在的覆盖
+            }
+        }
+        // index等于-1 意味着index并未发生改变，即遍历后没有找到比待插入元素大的值，也就说明待插入元素应该直接插入到最后
+        if (index == -1) {
+            index = arr.length;
+        }
+
+        int[] arrNew = new int[arr.length + 1];
+        // 使用两个变量i和j，分别指向新数组和原数组
+        // 本质是在进行数组的拷贝，但是当插入的位置与index重合时，就要把待插入元素插进去，并跳过这个位置，
+        for (int i = 0, j = 0; i &lt; arrNew.length; i++) {
+            if (i == index) {
+                arrNew[i] = add;
+            } else {
+                arrNew[i] = arr[j];
+                j++;
+            }
+        }
+        // 用新数组替换原来的数组
+        arr = arrNew;
+        // 打印数组
+        for (int i = 0; i &lt; arr.length; i++) {
+            System.out.print(arr[i] + &quot; &quot;);
+        }
+    }
+}
+</code></pre>
+<h3 id="22-直接把待插入元素插到末尾然后进行排序">2.2 直接把待插入元素插到末尾，然后进行排序</h3>
+<pre><code class="language-java">package TwoDimensionalArray;
+
+import java.util.Scanner;
+import static java.util.Arrays.sort;
+
+/**
+ * @author leon_ccc
+ * @date 2022/7/14 20:33
+ */
+public class Task2_2 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int[] arr = {10, 12, 45, 90};
+
+        System.out.println(&quot;请输入要插入的值&quot;);
+        int add = scan.nextInt();
+        int[] arrNew = new int[arr.length + 1];
+        // 直接插入到末尾
+        arrNew[arrNew.length - 1] = add;
+        for (int i = 0; i &lt; arr.length; i++) {
+            arrNew[i] = arr[i];
+        }
+        arr = arrNew;
+        // 对新数组进行排序
+        sort(arr);
+        for (int j = 0; j &lt; arr.length; j++) {
+            System.out.print(arr[j] + &quot; &quot;);
+        }
+    }
+}
+</code></pre>
+<h3 id="23-把待插入元素放到原数组中依次比对">2.3 把待插入元素放到原数组中依次比对</h3>
+<p><s>地狱绘图</s></p>
+<pre><code class="language-java">package TwoDimensionalArray;
+
+import java.util.Scanner;
+
+/**
+ * @author leon_ccc
+ * @date 2022/7/14 19:06
+ */
+public class Task2 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int[] arr = {10, 12, 45, 90};
+        // flag为1代表在开头，2代表在末尾，3代表在中间
+        int flag = 0;
+        // 用来给原数组计数的数
+        int origin = 0;
+        // 输入要插入的数
+        System.out.println(&quot;请输入要插入的值：&quot;);
+        int add = scan.nextInt();
+        // 用来替代旧数组的新数组，长度比原数组多1
+        int[] arrNew = new int[arr.length + 1];
+
+        if (add &lt; arr[0]) {
+            arrNew[0] = add;
+            flag = 1;
+        } else if (add &gt; arr[arr.length - 1]) {
+            arrNew[arrNew.length - 1] = add;
+            flag = 2;
+        }
+
+        int i = 0;
+        // 如果在开头，那么赋值时跳过开头
+        if (flag == 1) {
+            i++;
+        }
+
+        for (; i &lt; arrNew.length; i++) {
+            // 如果origin全赋完了那就跳过末尾
+            if (origin &lt; arr.length) {
+                arrNew[i] = arr[origin++];
+            }
+            if (flag == 0) {
+                if (i &lt; arr.length - 1 &amp;&amp; arr[i] &lt; add &amp;&amp; arr[i + 1] &gt; add) {
+                    arrNew[i + 1] = add;
+                    i++;
+                    flag = 3;
+                }
+            }
+        }
+
+        // 替换原数组
+        arr = arrNew;
+        // 打印
+        for (int j = 0; j &lt; arr.length; j++) {
+            System.out.print(arr[j] + &quot; &quot;);
+        }
+    }
+}
+</code></pre>
+<h2 id="3-思路分析">3. 思路分析</h2>
+<h3 id="31">3.1</h3>
+<p>这种做法将本题拆分为两个步骤，分开执行。两个步骤独立性大，因此代码编写起来较为简易。<br />个人认为这种思路的出发点是一种从“看”到“做”的过程，在本题中的体现就是“定位”代表了“看”，而“扩容”就代表了“做”。先“看”清楚了之后再“做”，思路自然便会更加清晰。</p>
+<h3 id="32">3.2</h3>
+<p>这种做法从结果出发，简单粗暴。<br />直接思考结果的实现方法，在构建新数组后直接冲向结果的实现<br />但是我自认为这已经脱离了该题本身的意义，是我在摆烂的心态下自暴自弃想出来的做法，因此也直接用了<code>sort</code>函数没去具体实现（</p>
+<h3 id="33">3.3</h3>
+<p>这种做法将搜索和插入融合到了一起，需要考虑多种特殊情况，因此定义了不少新的变量来作为标记。<br />折磨了我一个小时的做法，想着将步骤归到一起就能实现“偷懒”和“高效率”，结果便是思路杂糅，混乱无章，写着写着发现新的bug，着手解决后又发现另一个bug，再去解决……经过了大量debug调试后勉勉强强做出了结果，自认为完全没有参考价值。</p>
+<h2 id="4-总结">4. 总结</h2>
+<p>每当收到一个新的需求，最重要的就是将其“拆解”，得到许多细小的部分之后再逐个击破，这样才是最为简易和便于执行的方法。<br />至于对于做法的优化和改进，私以为应该放在功能实现之后再去考虑，而不是边做边想，不然<code>解法3</code>就是后果（</p>
+<h2 id="5-参考资料">5. 参考资料</h2>
+<p><a href="https://www.bilibili.com/video/BV1fh411y7R8?p=187">韩顺平Java P187</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacOS Oh-My-Zsh更新失败的解决办法]]></title>
+        <id>https://leonccccc.github.io/post/ohmyzsh_update_error/</id>
+        <link href="https://leonccccc.github.io/post/ohmyzsh_update_error/">
+        </link>
+        <updated>2022-07-12T02:40:45.000Z</updated>
+        <content type="html"><![CDATA[<p>文章来源：<a href="https://juejin.cn/post/7077751828611334174">MacOS Oh-My-Zsh 更新失败</a></p>
+<h2 id="1-问题">1. 问题</h2>
+<p>在尝试更新Oh My Zsh时发现迟迟无法更新成功，几分钟后跳出错误提示：</p>
+<pre><code class="language-shell">$ omz update
+Updating Oh My Zsh
+fatal: unable to connect to github.com:
+github.com[0: 140.82.114.3]: errno=Operation timed out
+</code></pre>
+<p>设备型号：MacBook Pro (13-inch, M1, 2020)<br>
+系统版本：macOS Montery 12.4</p>
+<h2 id="2-解决方案">2. 解决方案</h2>
+<p>在网上苦苦搜寻了很久，最终在掘金找到了成功的解决办法</p>
+<p><strong>以下内容来自 <a href="https://juejin.cn/post/7077751828611334174">文首链接</a></strong></p>
+<hr>
+<p>直接在终端执行以下命令：</p>
+<ul>
+<li><code>cd $ZSH</code>：进入 <code>ZSH</code> 的目录。</li>
+<li><code>git remote set-url origin &quot;https://github.com/ohmyzsh/ohmyzsh.git&quot;</code>：修改远程仓库的地址。</li>
+</ul>
+<p>原仓库地址：<code>git://github.com/ohmyzsh/ohmyzsh.git</code><br>
+更改后的仓库地址：<code>https://github.com/ohmyzsh/ohmyzsh.git</code><br>
+只需要将原有的 <code>git</code> 协议的仓库地址修改为 <code>https</code> 的即可。<br>
+更新完仓库地址以后，执行 <code>omz update</code> 即可更新成功。</p>
+<h2 id="3-问题原因">3. 问题原因</h2>
+<p><code>GitHub</code> 官方为了提高 <code>git</code> 协议的安全性，所以从 <strong>2022-03-15</strong> 以后将不再支持未加密的 <code>git</code> 协议（<code>unencrypted Git protocol</code>）。所以如果你还是使用老的 <code>git</code> 协议去更新 <code>Oh-My-Zsh</code> 就会出现这个错误，这个时候只需要将仓库地址更新为 <code>https</code> 协议即可。<br>
+详情可以参考这篇文章：<a href="https://github.blog/2021-09-01-improving-git-protocol-security-github/">GitHub Blog about Git protocol security</a></p>
+<h2 id="4-参考文章">4. 参考文章</h2>
+<p><a href="https://github.com/ohmyzsh/ohmyzsh/issues/10778">Github Issue</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[番剧短评：《奇蛋物语》]]></title>
+        <id>https://leonccccc.github.io/post/WonderEggPriority/</id>
+        <link href="https://leonccccc.github.io/post/WonderEggPriority/">
+        </link>
+        <updated>2022-07-04T15:56:41.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="生活就像汽水">生活就像汽水</h1>
+<p>不得不说奇蛋物语是近年来最让我感到五味杂陈的一部番剧了。</p>
+<p>提前说一下，有剧透，如果对本剧感兴趣且还没看的话就不要往下翻了。</p>
+<p>先说第一印象，本剧的作画绝对是我见过的番剧中数一数二的水准，无论是场景的描绘，人物日常的动作神态或是激烈的打斗特效，都将画面的表现力展现到了极致。对于镜头切换的把握也有很高的水准，也许有些蒙太奇的感觉，在观看途中经常忍不住啧啧赞叹。让人不禁心生一种艺术品的联想，“每一帧都能当作壁纸”在这里似乎完全适用。</p>
+<p>看名字和封面以为是女孩的愉快轻百日常，结果第一集看完就让我大有“我看不懂，但我大受震撼”之感。看似平静的日常下掩藏的是沉重的主题，而在这沉重的背景之下少女们轻快的生活与富有跳跃感的电音配乐不禁让人有种窒息感，某种被戏谑着压迫着的感觉。</p>
+<p>本剧的核心在于少年少女的纯真之心与现实残酷侵蚀之间的矛盾，少年少女们对于生活的未来总是抱着最为美好的期许，然而各种现实让他们不得不去接受，而有些无法接受的人在没有受到合理开导的情况下就会选择走极端。这些矛盾在本剧中用suicide这一十分激进的方式表现了出来，这带给观众的是强烈的冲击力，因此个人认为本剧并不适合少年少女观看以免产生新的抑郁心理（其实如果这故事有个更好的结尾确实可以扭转过来，不过这也是后话）。</p>
+<p>本剧几乎把日本社会上青少年存在的所有问题全部都展露了出来，其中由主线引导着的大概是校园欺凌、家庭问题、性别定式以及不遵循伦理观的科学研究这四个方面，其中最后一点私以为算是一种启发式的思维，带有某种告诫的意味，不过正是这一点让这部番剧的后期走向了一个十分奇怪的方向。</p>
+<p>从后期开始，番剧开始引入科幻的世界观，加入了人造人和疯狂科学家的设定，变成了经典的“人类被自己的科技反噬”的剧情（这里也许有个专有名词，可我书读得不够多所以不知道）。不过这倒也无伤大雅，如果能好好展开的话也可以写出一个略显宏大的剧本，只可惜……</p>
+<p>在看完之后才感觉到本剧在剧集的安排上确实存在着很大的割裂感，似乎是碍于工期的原因，最后两集的节奏明显加快，编剧想尽设法解释剧中的各种设定，但是可惜他并没有来得及全部说完，故事在刚刚开始时的便戛然而止。</p>
+<p>本剧在完结之后便不再有出续集的消息了，BD销量也不尽人意，我感觉属实是一件十分可惜的事，光从制作上这番剧就足够支撑着我一直看下去，即使剧情俗套一点也毫无关系，正如开头所说，本剧对我而言是一个可以以艺术品的态度来欣赏的作品。</p>
+<p>在我心目中完全能纳入神番的定义，如果能更完美一点就好了。</p>
+<p>生活就像汽水，宛如泡沫般呼呼冒出，宛如气泡般啵啵破裂。</p>
+<p>奇蛋物语也是如此吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++语法基础笔记(算法导向)]]></title>
+        <id>https://leonccccc.github.io/post/CplusFromAcwing/</id>
+        <link href="https://leonccccc.github.io/post/CplusFromAcwing/">
+        </link>
+        <updated>2022-03-03T09:59:28.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="一-基础">一、基础</h2>
+<hr>
+<h3 id="1-cincout和scanfprintf的区别">1. cin/cout和scanf/printf的区别</h3>
+<ul>
+<li>cin/cout不用判断字符的输出类型是什么，而scanf/printf需要</li>
+<li>在输出需要规定保留小数的位数时，printf比cout简单很多</li>
+<li>在scanf中使用%c时不会过滤空格，而cin可以过滤，需要注意</li>
+<li>long long类型使用%lld表示</li>
+</ul>
+<hr>
+<h3 id="2-在输入括号内的值之后可以通过按右括号的方式直接跳出括号">2. 在输入括号内的值之后可以通过按右括号的方式直接跳出括号</h3>
+<hr>
+<h3 id="3-如果在函数如main内开数组的话是存放在栈空间中的有可能会超容量">3. 如果在函数(如main)内开数组的话，是存放在栈空间中的，有可能会超容量</h3>
+<p>如果放到函数外面去，就相当于设成了全局变量，存放在堆空间中，因此就没有问题了</p>
+<ul>
+<li>在函数内声明的数组内部的值是随机的</li>
+<li>而在函数外声明的数组默认值全都是0</li>
+</ul>
+<hr>
+<h3 id="4-常用函数头文件algorithm">4. 常用函数(头文件algorithm)</h3>
+<ul>
+<li>swap(a, b) 交换a和b</li>
+<li>reverse(a[i], a[k+1]) 翻转数组，其中a[i]的数组的头部，a[k+1]是数组尾部之后的一位</li>
+</ul>
+<hr>
+<h3 id="5-浮点数的相等比较">5. 浮点数的相等比较</h3>
+<p>因为浮点数的表示不够精确，因此判断是否相等时有可能会出错<br />假设浮点数x和y<br />解决方法：|x-y| &lt; 10-6即可<br />即：</p>
+<pre><code class="language-cpp">const double eps = 1e-6;
+if(abs(x-y) &lt; eps){
+	...
+}
+</code></pre>
+<hr>
+<h2 id="二-数组">二、数组</h2>
+<hr>
+<h3 id="1-与数组相关的函数在头文件cstring中">1. 与数组相关的函数(在头文件cstring中)</h3>
+<ul>
+<li>memset：将数组全部置零
+<ul>
+<li>memset(a, 0, sizeof a);</li>
+<li>其中，a是数组的名字，0是替换的数字，sizeof a指a数组的长度</li>
+<li>注意：此处替换的0并不是把数组的每一个数字替换成0，而是以8位bit为一个单位，把每个单位替换成0，即0000 0000 0000 0000 0000 0000</li>
+<li>如果改成1的话就是：0000 0001 0000 0001 0000 0001</li>
+</ul>
+</li>
+<li>memcpy：复制一个数组
+<ul>
+<li>memcpy(b, a, sizeof a);</li>
+<li>其中，a是被复制的数组，b是接收被复制数组的数组，sizeof a是a数组的长度（若要复制n个整数，那么就是n*4）</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="三-字符串">三、字符串</h2>
+<hr>
+<h3 id="1-字符数组的输入">1. 字符数组的输入</h3>
+<h4 id="使用scanf和cin">使用scanf和cin</h4>
+<pre><code class="language-cpp">char s[100];
+scanf(&quot;%s&quot;, s);
+cin &gt;&gt; s;
+</code></pre>
+<p><strong>缺点</strong>：不能读入带空格的内容</p>
+<h4 id="解决方法">解决方法：</h4>
+<ul>
+<li><strong>fgets</strong>：用于字符数组、字符串</li>
+</ul>
+<pre><code class="language-cpp">char s[100];
+fgets(s, 100, stdin);
+//其中，s是数组名，100是数组的长度
+</code></pre>
+<ul>
+<li><strong>getline</strong>：用于string</li>
+</ul>
+<pre><code class="language-cpp">string s;
+getline(cin, s);
+</code></pre>
+<hr>
+<h3 id="2-字符数组的输出puts和printf是一样哒">2. 字符数组的输出(puts和printf是一样哒)</h3>
+<pre><code class="language-cpp">char s[100];
+scanf(&quot;%s&quot;, s);
+
+puts(s);
+printf(&quot;%s\n&quot;, s);
+//第4行与第5行等价
+</code></pre>
+<hr>
+<h3 id="3-字符数组常用函数如char100">3. 字符数组常用函数（如char[100]）</h3>
+<h4 id="1-求数组的长度">① 求数组的长度</h4>
+<p>strlen(s);</p>
+<h4 id="2-比较两个数组的大小">② 比较两个数组的大小</h4>
+<p>strcmp(s1, s2);<br />若s1&gt;s2返回1，s1=s2返回0，s1&lt;s2返回-1</p>
+<h4 id="3-复制一个数组">③ 复制一个数组</h4>
+<p>strcpy(s2, s1);<br />把s1复制给s2</p>
+<h4 id="4-把一个字符数组转化成整数">④ 把一个字符数组转化成整数</h4>
+<p>atoi(char c[]);</p>
+<hr>
+<h3 id="4-string常用函数">4. string常用函数</h3>
+<h4 id="1-获得字符串的长度">① 获得字符串的长度</h4>
+<p>s.size();</p>
+<h4 id="2-定位数组的首尾">② 定位数组的首尾</h4>
+<p>s.begin()<br />s.end()</p>
+<h4 id="3-字符串的最后一个位置">③ 字符串的最后一个位置</h4>
+<p>s.back();</p>
+<h4 id="4-删掉字符串的最后一个字符">④ 删掉字符串的最后一个字符</h4>
+<p>s.pop_back();<br />其中s是字符串的名字</p>
+<h4 id="5-提取字符串的一部分">⑤ 提取字符串的一部分</h4>
+<p>s.substr(a, b);<br />其中s是字符串的名字；a是起点，b是<s>终点+1</s>向后截取的字符串长度，若b处不写就代表一直读到结束<br />用处：字符串的插入。把原字符串分别提取出两部分，把想要插入的字符串放入它们两个之中<br />示例：<a href="https://www.acwing.com/activity/content/code/content/2543933/">https://www.acwing.com/activity/content/code/content/2543933/</a></p>
+<h4 id="6-把字符串变成字符串流并读出">⑥ 把字符串变成字符串流并读出</h4>
+<p>sstream可以把一个字符串初始成一个类似cin的东西（指ssin），然后可以从这个字符串中读出任意我们需要的格式<br />个人理解的流程：<br />把字符串变为字符串流，之后创建一个新变量，通过ssin来用这个变量接收字符串中所需要的元素，顺序从左至右<br />示例：<a href="https://www.acwing.com/activity/content/code/content/2546841/">https://www.acwing.com/activity/content/code/content/2546841/</a></p>
+<pre><code class="language-cpp">#include &lt;sstream&gt;
+
+stringstream ssin(s);
+string str;
+while(ssin &gt;&gt; str){
+    ...
+}
+</code></pre>
+<h4 id="7-把字符串转化成整数">⑦ 把字符串转化成整数</h4>
+<p>stoi(string)</p>
+<hr>
+<h3 id="5-简单算法">5. 简单算法</h3>
+<h4 id="第一类双指针算法">· 第一类双指针算法</h4>
+<p>除了遍历用的i之外，再加一个变量j<br />j从i出发向后寻找满足条件的所有量（本题就是和i相等的量），直到不满足条件为止<br />此时i到j之间就是所有和i相等的一段<br />第一类双指针算法的典型表现形式：<br />示例：<a href="https://www.acwing.com/file_system/file/content/whole/index/content/3896203/">https://www.acwing.com/file_system/file/content/whole/index/content/3896203/</a></p>
+<pre><code class="language-cpp">int j = i;
+while(j &lt; len &amp;&amp; 限制条件) j++;
+//...相关处理
+i = j - 1; //此处因为j++的同时i也++了（在for循环中），所以要额外减去一
+</code></pre>
+<p>源代码</p>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+
+using namespace std;
+
+int main()
+{
+    int n;
+    cin &gt;&gt; n;
+    while(n--){
+        string s;
+        cin &gt;&gt; s;
+        int len = s.size();
+        int count = 0;
+        int maxcount = 0;
+        char maxchar;
+        
+        for(int i = 0; i &lt; len; i++){
+            int j = i;
+            while(j &lt; len &amp;&amp; s[j] == s[i]) j++;
+            count = j - i;
+            if(maxcount &lt; count){
+                maxcount = count;
+                maxchar = s[i];
+            }
+            i = j - 1;
+        }
+        cout &lt;&lt; maxchar &lt;&lt; &quot; &quot; &lt;&lt; maxcount &lt;&lt; endl;
+    }
+    return 0;
+}
+</code></pre>
+<hr>
+<h2 id="四-函数">四、函数</h2>
+<hr>
+<h3 id="1-函数中的静态变量">1. 函数中的静态变量</h3>
+<p>静态变量在整个程序中只会声明一次</p>
+<pre><code class="language-cpp">int foo(int n){
+	static int count = 0;
+    count ++;
+    return count;
+}
+//每调用一次该函数count都会+1，且不会重新初始化为0
+</code></pre>
+<pre><code>简单来理解，就是在函数内部开了一个只有这个函数能访问的全局变量&lt;br /&gt;**用处：**可以用于统计函数被调用了多少次
+</code></pre>
+<hr>
+<h3 id="2-形参的引用">2. 形参的引用</h3>
+<p>在函数的参数列表中加入取地址符号**&amp;<strong>，则在函数中对</strong>x<strong>和</strong>y<strong>的任何操作都会影响到外面的</strong>a<strong>和</strong>b**</p>
+<pre><code class="language-cpp">//引用
+int foo(int &amp;x, int &amp;y){
+	x = 10, y = 20;
+    if(x &gt; y) return x;
+    return y;
+}
+
+int main()
+{
+    int a, b;
+    cin &gt;&gt; a &gt;&gt; b;
+    
+    cout &lt;&lt; max(a, b) &lt;&lt; endl;
+    
+    cout &lt;&lt; a &lt;&lt; ' ' &lt;&lt; b &lt;&lt; endl;
+	return 0;   
+}
+</code></pre>
+<hr>
+<h2 id="五-类-结构体-指针和引用">五、类、结构体、指针和引用</h2>
+<hr>
+<h3 id="1-关于类的声明">1. 关于类的声明</h3>
+<p>与Java有所不同，注意格式</p>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+
+using namespace std;
+
+struct Node
+{
+    int val;
+    Node* next;
+    
+    Node(int _val) : val(_val), next(NULL) {}
+    /* 上面这一段是构造函数（构造器），相当于：
+    Node(int _val)
+    {
+    	val = _val;
+        next = NULL;
+    }
+    */
+};
+
+int main()
+{
+    Node a = Node(1);
+    a.next, a.val;			// 调用变量而非指针
+    
+    Node *p = new Node(1);
+    
+    p-&gt;next = p;			// 调用指针
+    p-&gt;val;
+    
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="2-遍历一个链表">2. 遍历一个链表</h3>
+<ul>
+<li>利用for循环，让i从头结点开始，i的下一个节点是i-&gt;next，每次结束时让i变成指向下一个链表项的指针，直到i最后指向空集（即0）</li>
+<li>注：此处头结点指链表第一项的<strong>指针</strong></li>
+<li><img src="https://cdn.nlark.com/yuque/0/2022/png/21876594/1645004109313-24ff0550-23f0-41ab-81f0-cb87b3b7c0ec.png#clientId=uaec70a4a-1fc5-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=355&amp;id=u42340570&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=709&amp;originWidth=1274&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=176215&amp;status=done&amp;style=none&amp;taskId=u980659b9-a5f1-4f89-b7b1-0211e6904d4&amp;title=&amp;width=637" alt="image.png" loading="lazy"></li>
+<li><img src="https://cdn.nlark.com/yuque/0/2022/png/21876594/1645004653695-e560ae3a-f136-43b9-ab8e-33c013f1ec42.png#clientId=uaec70a4a-1fc5-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=288&amp;id=u2e8f95e3&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=575&amp;originWidth=1238&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=163456&amp;status=done&amp;style=none&amp;taskId=u0e17fa22-4dee-4506-84f6-d7858933cfa&amp;title=&amp;width=619" alt="image.png" loading="lazy"></li>
+</ul>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+
+using namespace std;
+
+struct Node
+{
+    int val;
+    Node* next;
+    
+    Node(int _val) : val(_val), next(NULL) {}
+};
+
+int main()
+{
+    Node* p = new Node(1);
+    Node* q = new Node(2);
+    Node* o = new Node(3);
+    
+    p-&gt;next = q;
+    q-&gt;next = o;
+    
+    Node* head = p;
+    
+    // 链表的遍历方式
+    for(Node* i = head; i; i = i-&gt;next){
+        cout &lt;&lt; i-&gt;val &lt;&lt; endl;
+    }
+    
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="3-在链表中添加一个节点">3. 在链表中添加一个节点</h3>
+<ul>
+<li>添加节点时从链表头部添加</li>
+<li><img src="https://cdn.nlark.com/yuque/0/2022/png/21876594/1645005290641-f78812f8-16bd-4a02-ad7c-0d8f14d4dacd.png#clientId=uaec70a4a-1fc5-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=255&amp;id=u89511883&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=509&amp;originWidth=1137&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=97710&amp;status=done&amp;style=none&amp;taskId=u8cda1f95-b16a-4388-9aa8-43dc7a1d202&amp;title=&amp;width=568.5" alt="image.png" loading="lazy"></li>
+</ul>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+
+using namespace std;
+
+struct Node
+{
+    int val;
+    Node* next;
+    
+    Node(int _val) : val(_val), next(NULL) {}
+};
+
+int main()
+{
+    Node* p = new Node(1);
+    Node* q = new Node(2);
+    Node* o = new Node(3);
+    
+    p-&gt;next = q;
+    q-&gt;next = o;
+    
+    Node* head = p;
+    
+    // 添加节点
+    Node* u = new Node(4);
+    u-&gt;next = head;
+    head = u;
+    
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="4-链表的删除">4. 链表的删除</h3>
+<ul>
+<li>链表的删除是指在遍历时跳过这个节点而不遍历它</li>
+<li><img src="https://cdn.nlark.com/yuque/0/2022/png/21876594/1645004020364-63e80a12-f0ef-48e4-bdae-7a1d02a6a5df.png#clientId=uaec70a4a-1fc5-4&amp;crop=0&amp;crop=0&amp;crop=1&amp;crop=1&amp;from=paste&amp;height=286&amp;id=ccAcy&amp;margin=%5Bobject%20Object%5D&amp;name=image.png&amp;originHeight=571&amp;originWidth=1659&amp;originalType=binary&amp;ratio=1&amp;rotation=0&amp;showTitle=false&amp;size=250663&amp;status=done&amp;style=none&amp;taskId=uc3fe4b97-ecdb-4ac1-851a-87477edeb6d&amp;title=&amp;width=829.5" alt="image.png" loading="lazy"></li>
+</ul>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+
+using namespace std;
+
+struct Node
+{
+    int val;
+    Node* next;
+    
+    Node(int _val) : val(_val), next(NULL) {}
+};
+
+int main()
+{
+    Node* p = new Node(1);
+    Node* q = new Node(2);
+    Node* o = new Node(3);
+    
+    p-&gt;next = q;
+    q-&gt;next = o;
+    
+    Node* head = p;
+    
+    // 删除节点
+    head-&gt;next = head-&gt;next-&gt;next;
+    
+    return 0;
+}
+</code></pre>
+<hr>
+<h3 id="5-链表的相关理解">5. 链表的相关理解</h3>
+<ol>
+<li>p = p-&gt;next;	相当于把指针p挪到了链表的下一个位置上去</li>
+</ol>
+<p>p可以理解成一个点，而p-&gt;next可以理解成一个箭头，默认指在p的下一个位置<br />别人可以通过p-&gt;next获取到p的下一个位置，而修改p-&gt;next就像是把箭头拽到了其它地方，指向其它位置<br />而最后读取链表时靠的也是p-&gt;next作为连接</p>
+<ol start="2">
+<li>根据题意，有时需要在链表最开头添加一个虚拟节点dummy，就可以避免额外讨论链表头节点需要被删除的特殊情况<a href="https://www.acwing.com/file_system/file/content/whole/index/content/3973835/">https://www.acwing.com/file_system/file/content/whole/index/content/3973835/</a></li>
+</ol>
+<hr>
+<h2 id="六-stl">六、 STL</h2>
+<hr>
+<h3 id="1-可变数组-include-vector">1. 可变数组 #include <vector></h3>
+<h4 id="1-简述">1. 简述</h4>
+<p>vector是一个变长容器，<strong>只能在结尾添加或删除</strong><br />定义vector的方法：<br />vector<int> a;（一维的int数组）</p>
+<h4 id="2-迭代器相当于stl容器的指针用星号就能得到具体的值基本不用">2. 迭代器：相当于STL容器的指针，用星号*就能得到具体的值(基本不用)</h4>
+<p>声明迭代器的方法：<br />vector<int>::iterator it;</p>
+<h4 id="3-遍历vector中的内容">3. 遍历vector中的内容</h4>
+<h5 id="法一直接遍历">法一：直接遍历</h5>
+<pre><code class="language-cpp">for(int i = 0; i &lt; a.size(); i++){
+    cout &lt;&lt; a[i] &lt;&lt; ' ';
+}
+</code></pre>
+<h5 id="法二用迭代器遍历i相当于一个指针从开头一直指到结尾">法二：用迭代器遍历(i相当于一个指针，从开头一直指到结尾)</h5>
+<pre><code class="language-cpp">for(vector&lt;int&gt;::iterator i = a.begin(); i != a.end(); i++){
+    cout &lt;&lt; *i &lt;&lt; ' ';
+}
+</code></pre>
+<pre><code>	简便写法：
+</code></pre>
+<pre><code class="language-cpp">for(auto i = a.begin(); i != a.end(); i++){
+    cout &lt;&lt; *i &lt;&lt; ' ';
+}
+</code></pre>
+<h5 id="法三forauto-iv">法三：for(auto i:v)</h5>
+<h4 id="4-常用函数">4. 常用函数</h4>
+<pre><code>     1. 返回vector的长度
+</code></pre>
+<p>a.size();</p>
+<pre><code>     2. 查看vector是否为空(返回bool类型，若为空就返回true)
+</code></pre>
+<p>a.empty();</p>
+<pre><code>     3. 清空vector
+</code></pre>
+<p>a.clear();</p>
+<pre><code>     4. 返回vector的第一个和最后一个迭代器
+</code></pre>
+<p>a.begin();<br />a.end();<br /><strong>注意：begin和end是左闭右开的关系，即begin能取到，end取不到</strong></p>
+<pre><code>     5. 返回vector的第一个和最后一个元素
+</code></pre>
+<p>a.front();		( 相当于<em>a.begin() )<br />a.back();		( 相当于</em>a.end() )</p>
+<blockquote>
+<p>注：back返回的是最后一位，而end返回的是最后一位的后一位</p>
+</blockquote>
+<pre><code>     6. 添加/删除vector数组的最后一位元素
+</code></pre>
+<p>a.push_back(n);	//添加数字n到数组的末尾<br />a.pop_back();</p>
+<hr>
+<h3 id="2-队列-include-queue">2. 队列 #include <queue></h3>
+<h4 id="1-简述-2">1. 简述</h4>
+<ul>
+<li>循环队列<strong>queue</strong>是一个<strong>先进先出</strong>的数组（像是一个管道，只能左边进，右边出）</li>
+</ul>
+<p><strong>定义queue的方法：</strong><br />queue<int> q;</p>
+<ul>
+<li>优先队列<strong>priority_queue</strong>是一个无序队列，无所谓插入的顺序，<strong>也就是堆</strong>，弹出时优先弹出队列中的最大值</li>
+</ul>
+<p>priority_queue<int> q;	//默认是大根堆（即每次都返回最大值）<br />priority_queue&lt;int, vector<int>, greater<int>&gt; q;	//小根堆的写法</p>
+<ul>
+<li>如果是大根堆，那么就要在结构体中重载小于号</li>
+</ul>
+<pre><code class="language-cpp">struct rec
+{
+    int a, b;
+    bool operator&lt; (const rec&amp; t) const{
+        return a &lt; t.a;
+    }
+}
+priority_queue&lt;rec&gt; q;
+</code></pre>
+<h4 id="2-常用函数">2. 常用函数</h4>
+<pre><code>  1. **循环队列（本质是队列）**
+     1. 插入元素到队头
+</code></pre>
+<p>q.push(n);</p>
+<pre><code>     2. 弹出队尾元素
+</code></pre>
+<p>q.pop();</p>
+<pre><code>     3. 返回队头
+</code></pre>
+<p>q.front();</p>
+<pre><code>     4. 返回队尾
+</code></pre>
+<p>q.back();</p>
+<pre><code>  2. **优先队列（本质是堆）**
+     1. 把元素插入堆(不管顺序了)
+</code></pre>
+<p>q.push(1);</p>
+<pre><code>     2. 取最大值
+</code></pre>
+<p>q.top();</p>
+<pre><code>     3. 删除最大值
+</code></pre>
+<p>q.pop();<br />注：清空队列不能用clear，应用 q = queue<int>() 重新初始化该队列</p>
+<hr>
+<h3 id="3-栈-include-stack">3. 栈 #include <stack></h3>
+<h4 id="1-简述-3">1. 简述</h4>
+<p>与队列类似，但是是<strong>先进后出</strong>。即弹出的元素是最后一个插入的元素</p>
+<h4 id="2-常用函数-2">2. 常用函数</h4>
+<pre><code>     1. 插入一个元素
+</code></pre>
+<p>stk.push(n);</p>
+<pre><code>     2. 返回栈顶元素
+</code></pre>
+<p>stk.top();</p>
+<pre><code>     3. 删除栈顶元素
+</code></pre>
+<p>stk.pop();</p>
+<hr>
+<h3 id="4-双端队列-include-deque">4.  双端队列 #include <deque></h3>
+<h4 id="1-简述-4">1. 简述</h4>
+<p>与vector类似，但是队列的<strong>两端都是可进可出的</strong>，相当于扩展版的vector，在数组的开头和结尾都能添加数字，但是效率比vector低一些<br /><strong>定义一个双端队列：</strong><br />deque<int> a;</p>
+<h4 id="2-常用函数-3">2. 常用函数</h4>
+<pre><code>     1. 返回deque的第一个和最后一个迭代器
+</code></pre>
+<p>a.begin();<br />a.end();</p>
+<pre><code>     2. 返回deque的第一个和最后一个元素
+</code></pre>
+<p>a.front();		( 相当于<em>a.begin() )<br />a.back();		( 相当于</em>a.end() )</p>
+<pre><code>     3. 在最后插入一个元素
+</code></pre>
+<p>a.push_back(n);</p>
+<pre><code>     4. 在开头插入一个元素
+</code></pre>
+<p>a.push_front(n);</p>
+<pre><code>     5. 随机访问一个元素
+</code></pre>
+<p>a[0];</p>
+<pre><code>     6. 弹出最后一个元素
+</code></pre>
+<p>a.pop_back();</p>
+<pre><code>     7. 弹出第一个元素
+</code></pre>
+<p>a.pop_front();</p>
+<pre><code>     8. 清空deque
+</code></pre>
+<p>a.clear();</p>
+<hr>
+<h3 id="5-include-set">5. #include <set></h3>
+<h4 id="1-简述-5">1. 简述</h4>
+<p>用于动态维护一个<strong>有序集合</strong>，当输入数字后会自动按大小将其排序，有两种不同的容器<br />定义：</p>
+<ul>
+<li>set<int> a;	//元素不能重复</li>
+<li>multiset<int> a;	//元素可以重复</li>
+</ul>
+<h4 id="2-常用函数-4">2. 常用函数</h4>
+<pre><code>     1. 返回集合中最小元素的迭代器
+</code></pre>
+<p>a.begin();</p>
+<pre><code>     2. 返回集合中最大元素的迭代器
+</code></pre>
+<p>a.end();</p>
+<pre><code>     3. 把一个元素插入到集合中
+</code></pre>
+<p>a.insert(n);</p>
+<pre><code>     4. 在集合中查找某元素，并返回其迭代器
+</code></pre>
+<p>a.find(x)<br />注：当没找到时会返回a.end()，因此可以用于判断集合中是否有元素x存在：if(a.find(x) == a.end())，但一般用另一个函数实现而不是这个</p>
+<pre><code>     5. 找到大于等于x最小的元素
+</code></pre>
+<p>a.lower_bound(x);</p>
+<pre><code>     6. 找到大于x的最小的元素
+</code></pre>
+<p>a.upper_bound(x);</p>
+<pre><code>     7. 删除某个元素的迭代器
+</code></pre>
+<p>a.erase(x);</p>
+<pre><code>     8. 返回集合中某个数的个数
+</code></pre>
+<p>a.count(x);<br />注：如果是set<int>，就只会返回0或1，因此可以用来判断某元素是否存在</p>
+<h4 id="3-拓展">3. 拓展</h4>
+<p>除了<set>之外，还有另外一个&lt;unordered_set&gt;，与<set>的用法完全相同，但是这是一个<strong>哈希表</strong>，属于<strong>无序集合</strong>。<br />因此它不支持二分查找（即使用lower_bound和upper_bound函数）</p>
+<hr>
+<h3 id="6-include-map">6. #include <map></h3>
+<h4 id="1-简述-6">1. 简述</h4>
+<p>map是一个映射，内部实现和<set>类似，它储存一个二元组，把第一个元素映射到第二个元素上<br />定义：<br />map&lt;int, int&gt; a;<br />↑ 像这样定义完之后的用法和数组差不多：</p>
+<pre><code class="language-cpp">map&lt;int, int&gt; a;
+a[1] = 2;
+cout &lt;&lt; a[1] &lt;&lt; endl;
+//则终端输出“2”
+</code></pre>
+<p>但前后的两个类型都能自定义，因此可以：</p>
+<pre><code class="language-cpp">map&lt;string, vector&lt;int&gt;&gt; a;
+a[&quot;yxc&quot;] = vector&lt;int&gt;({1, 2, 3, 4});
+cout &lt;&lt; a[&quot;yxc&quot;][2] &lt;&lt; endl;
+//则终端输出“3”
+</code></pre>
+<h4 id="2-常用函数-5">2. 常用函数</h4>
+<p><set>能用的，<map>都能用</p>
+<h4 id="3-拓展-2">3. 拓展</h4>
+<p>除了<map>之外，还有另外一个&lt;unordered_map&gt;，与<map>的用法完全相同，但是这是一个无序集合。<br />因此它不支持二分查找（即使用lower_bound和upper_bound函数）<br />但unordered_map的效率比map更高，鉴于我们通常不会用map来做二分，因此更加推荐使用unordered_map<br /><strong>仅限C++11及以上</strong></p>
+<hr>
+<h3 id="7-include-bitset">7. #include <bitset></h3>
+<h4 id="1-简述-7">1. 简述</h4>
+<p>创建一个0/1串，默认初始值都是0，用于<strong>位运算</strong><br />定义：<br />bitset&lt;1000&gt; a;</p>
+<h4 id="2-常用函数-6">2. 常用函数</h4>
+<pre><code>     1. 返回串中数字1的个数
+</code></pre>
+<p>a.count();</p>
+<pre><code>     2. 把某一位置一
+</code></pre>
+<p>a.set(n);		//把第n+1位置一</p>
+<pre><code>     3. 把某一位置零
+</code></pre>
+<p>a.reset(n);	//把第n+1位置零</p>
+<hr>
+<h3 id="8-pair的用法">8. pair的用法</h3>
+<h4 id="1-简述-8">1. 简述：</h4>
+<p>pair是一个二元组<br />定义：<br />pair&lt;int, string&gt; a;<br />a = {3, &quot;yxc&quot;};		//该用法仅限C++11以上<br />a = make_pair(4, &quot;abc&quot;);	//该用法适用于C++99</p>
+<h4 id="2-常用函数-7">2. 常用函数：</h4>
+<pre><code>     1. 获得pair的前一项
+</code></pre>
+<p>a.first</p>
+<pre><code>     2. 获得pair的后一项
+</code></pre>
+<p>a.second</p>
+<h4 id="3-用处">3. 用处</h4>
+<p>pair和vector相同，支持直接的比较运算，是按位分别进行比较的</p>
+<hr>
+<h2 id="七-位运算">七、位运算</h2>
+<hr>
+<h4 id="1简述">1.简述</h4>
+<p>共分为与 &amp;、或 |、取反 ~和异或 ^<br />除此之外还有右移 &gt;&gt;和左移 &lt;&lt;，意为将数字的二进制位移动，如11011&gt;&gt;1 = 1101（移出去的位删掉了），11011&lt;&lt;1 = 110110</p>
+<h4 id="2-常用操作">2. 常用操作</h4>
+<pre><code>  1. 求x的第k位数字 (与1能取到个位数字)
+</code></pre>
+<p>x&gt;&gt;k&amp;1;</p>
+<pre><code>  2. 返回x的最后一位1
+</code></pre>
+<p>lowbit(x) = x &amp; -x;<br />关于lowbit(x)：从最后一个1开始向后取，若x=110110，则返回10；若x=11000，则返回1000</p>
+<hr>
+<h2 id="八-常用库函数-在algorithm中">八、常用库函数 (在<algorithm>中)</h2>
+<hr>
+<h3 id="1-reverseai-ak1翻转">1. reverse(a[i], a[k+1])	翻转</h3>
+<h4 id="1-简述用于翻转一个数组vector和数组都能用">1. 简述：用于翻转一个数组，vector和数组都能用</h4>
+<h4 id="2-用法前面写数组的第一位的指针数组就是数组的名字vector就是abegin后面写要翻转到的位置的下一位">2. 用法：前面写数组的第一位的指针(数组就是数组的名字，vector就是a.begin())，后面写要翻转到的位置的下一位</h4>
+<pre><code>  1. vector
+</code></pre>
+<pre><code class="language-cpp">vector&lt;int&gt; a({1, 2, 3, 4, 5});
+reverse(a.begin(), a.end());
+//注意：begin和end是左闭右开的关系
+</code></pre>
+<pre><code>  2. 数组
+</code></pre>
+<h3 id="2-uniqueai-ak1去重">2. unique(a[i], a[k+1])	去重</h3>
+<h4 id="1-简述去掉数组中相邻的相同元素">1. 简述：去掉数组中相邻的相同元素</h4>
+<p>使用的前提要求：相同的元素挨在一起</p>
+<h4 id="2-用法">2. 用法：</h4>
+<pre><code>  1. vector
+</code></pre>
+<pre><code class="language-cpp">vector&lt;int&gt; a({1, 1, 2, 2, 3, 3, 4});
+int m = unique(a.begin(), a.end()) - a;	//此处m可以得到数组中不同数字的个数
+
+//优质思路：
+a.erase(unique(a.begin(), a.end()), a.end());
+//↑相当于先把该vector数组去重，然后删掉后面所有没用的部分
+</code></pre>
+<pre><code>  2. 数组
+</code></pre>
+<pre><code class="language-cpp">int a[] = {1, 1, 2, 2, 3, 3, 4};
+int m = unique(a, a + 7) - a;	//此处m可以得到数组中不同数字的个数
+</code></pre>
+<h3 id="3-random_shuffleai-ak1打乱数组中的元素">3. random_shuffle(a[i], a[k+1])	打乱数组中的元素</h3>
+<p>注：使用前要生成随机数种子</p>
+<pre><code class="language-cpp">#include &lt;algorithm&gt;
+#include &lt;ctime&gt;
+
+int main()
+{
+    vector&lt;int&gt; a({1, 2, 3, 4, 5});
+	srand(time(0));
+    
+    random_shuffle(a.begin(), a.end());
+    
+    for(int x : a) cout &lt;&lt; x &lt;&lt; ' ';
+    cout &lt;&lt; endl;
+    
+    return 0;
+}
+</code></pre>
+<h3 id="4-sortai-ak1排序">4. sort(a[i], a[k+1])	排序</h3>
+<h4 id="1-简述将数组中的数字按从小到大排序">1. 简述：将数组中的数字按从小到大排序</h4>
+<h4 id="2-用法-2">2. 用法：</h4>
+<pre><code>  1. vector
+</code></pre>
+<pre><code class="language-cpp">vector&lt;int&gt; a({1, 2, 3, 4, 5});
+sort(a.begin(), a.end());
+</code></pre>
+<pre><code>注：若要将数组从大到小排序，则只需添加一个参数即可：
+</code></pre>
+<pre><code class="language-cpp">vector&lt;int&gt; a({1, 2, 3, 4, 5});
+sort(a.begin(), a.end(), greater&lt;int&gt;());
+</code></pre>
+<pre><code>  2. 给结构体排序
+</code></pre>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+#include &lt;algorithm&gt;
+
+struct Rec
+{
+	int x, y;
+}a[5];
+
+bool cmp(Rec a, Rec b)
+{
+	return a.x &lt; b.x;	//自定义排序规则
+}
+
+int main()
+{
+    for(int i = 0; i &lt; 5; i++){
+        printf(&quot;(%d,%d)&quot;, a[i].x, a[i].y);
+    }
+    cout &lt;&lt; endl;
+    
+    sort(a, a + 5, cmp);
+    
+    for(int i = 0; i &lt; 5; i++){
+        printf(&quot;(%d,%d)&quot;, a[i].x, a[i].y);
+    }
+    cout &lt;&lt; endl;
+    
+    return 0;
+}
+</code></pre>
+<h3 id="5-lower_boundupper_boundai-ak1-n二分">5. lower_bound/upper_bound(a[i], a[k+1], n)	二分</h3>
+<h4 id="1-简述-9">1. 简述：</h4>
+<p>使用前要求已经排好序<br />lower_bound: 找到大于等于n的最小的数<br />upper_bound: 找到大于n的最小的数</p>
+<h4 id="2-用法-3">2. 用法：</h4>
+<p>注意要使用指针接收</p>
+<pre><code class="language-cpp">int main()
+{
+    int a[] = {1, 2, 4, 5, 6};
+    
+    int *p = lower_bound(a, a + 5, 3);
+    cout &lt;&lt; *p &lt;&lt; endl;
+    return 0;
+}
+</code></pre>
+<pre><code>也可以得到这个数的位置：
+</code></pre>
+<pre><code class="language-cpp">#include &lt;iostream&gt;
+#include &lt;algorithm&gt;
+#include &lt;vector&gt;
+
+using namespace std;
+
+int main()
+{
+    int a[] = {1, 2, 4, 5, 6};
+    
+    int t = lower_bound(a, a + 5, 3) - a;
+    cout &lt;&lt; t &lt;&lt; endl;
+    return 0;
+}
+</code></pre>
+<h3 id="6-next_permutationai-ak1-求更大的排列">6. next_permutation(a[i], a[k+1]) 求更大的排列</h3>
+<h4 id="1-简述-10">1. 简述</h4>
+<p>可以得到比当前排列更大一点的下一个排列<br />如输入[1, 2, 3]，则会将数组变成[1, 3, 2]并返回true，再次调用则会变成[2, 1, 3]并返回true，以此类推<br />当已经到最大的排列时，下次将会返回false<br />涉及数组排列时很好用</p>
+<h4 id="2-用法-4">2. 用法</h4>
+<p>一般用在while判断当中</p>
+<pre><code class="language-cpp">vector&lt;int&gt; a({1, 2, 3, 4, 5});
+vector&lt;int&gt; res;
+do{
+	res.push_back(a);
+}while(next_permutaiton(a.begin(), a.end()));
+</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的2021年度总结]]></title>
+        <id>https://leonccccc.github.io/post/2021summar/</id>
+        <link href="https://leonccccc.github.io/post/2021summar/">
+        </link>
+        <updated>2022-01-01T17:23:53.000Z</updated>
+        <content type="html"><![CDATA[<p>稍微回忆一下吧<br>
+去年的这个时候，应该刚意识到物联网专业和计算机的不同，立下了转专业的志向，想象着转入之后的美好生活<br>
+不得不说大一时偏向基础性的学习给我带来了过大的信心，以至于让我产生了自己还不错的错觉。现在想来自己与自己所鄙夷的人似乎并没有两样，特别容易被分心，生活中任何突然发生的事件都会让我接下来的一整天都分崩离析，唯一有的大概就是稍优于常人的一点行动力吧。这么说来，我这一年来定的长期计划究竟完成了几个呢，全都被各种突发的事件吸引走了精力，然后跟这些被解决的事件一起遗弃在时间的长河中了吧（苦笑）。<br>
+大一上学期时还会想着找点乐子，和朋友一起出去玩一玩什么的，进入下学期之后背上了转专业的包袱，自此陷入了深深的应试地狱之中。从下学期开始就几乎再无碰过电脑游戏，虽然该浪费的时间照样浪费，但是不打电脑游戏就会让自己产生一种有在认真做事的感觉，现在想来还挺荒诞的。最终转专业考试并不算完美，带着cs的目标进入，最终转入了se，但是终究还算是脱离苦海了。<br>
+如果这样就好了<br>
+从大二上学期开始，在就读se现专业的同时，还要补修他们大一时的科目。补修本身并不是什么问题，但我渐渐意识到，现在大二所学习的科目都基于大一时的知识积累，缺少了前置知识直接学习高阶内容对我而言就如同天方夜谭。当然也怪我没有提前考虑到这个情况并未雨绸缪。<br>
+因此我所自食的恶果就是不断被各路知识鸿儒，小小的自信心逐渐消磨殆尽以至于年末的几天都在怀疑自己至今为止所做出的选择是否都是正确的。<br>
+光发牢骚也不能解决任何问题，目前只能寄希望于寒假恶补一下了，寒假要做的事还挺多的。当然目前最重要的还是应付考试，Java考试给了我一个下马威，接下来的考试希望能够顺利一些，得行动起来才行啊。<br>
+想找到生活的安定感，想真正体会到有意义地活着的感觉。<br>
+最近blog越来越卡了啊。。。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacOS在vscode中调用curses.h头文件报错的解决办法]]></title>
+        <id>https://leonccccc.github.io/post/ncurses/</id>
+        <link href="https://leonccccc.github.io/post/ncurses/">
+        </link>
+        <updated>2021-12-23T07:29:19.000Z</updated>
+        <content type="html"><![CDATA[<p>这是在C++实习过程遇到的一个小问题<br>
+我尝试在vscode中配置使用curse.h头文件，却发生报错，报错内容为：</p>
+<pre><code class="language-c++">Undefined symbols for architecture arm64:
+    &quot;_endwin&quot;, referenced from:
+readChar() in Editor-c9114c.o
+    &quot;_initscr&quot;, referenced from:
+readChar() in Editor-c9114c.o
+    &quot;_stdscr&quot;, referenced from:
+readChar() in Editor-c9114c.o
+    &quot;_wgetch&quot;, referenced from:
+readChar() in Editor-c9114c.o
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+</code></pre>
+<figure data-type="image" tabindex="1"><img src="https://leonccccc.github.io/post-images/1645605330955.jpg" alt="" loading="lazy"></figure>
+<p>呃，似乎是电脑中并没有安装curses的样子，那么首先在终端中输入</p>
+<pre><code class="language-a">brew install ncurses
+</code></pre>
+<p>使用brew安装ncurses。<br>
+之后发现依然报错且报错内容相同。<br>
+于是查找原因，排除众多原因之后发现可能是虽然下载了ncurses，是vscode并不知道去调用他，因此需要在vscode的setting.json中对code runner的编译参数进行修改，让程序在编译的时候会主动去指定curses库。<br>
+于是使用shift + command + P呼出命令面板Command Palette，接着输入setting.json，<br>
+<img src="https://leonccccc.github.io/post-images/1645605349773.jpg" alt="" loading="lazy"><br>
+找到“打开默认设置”的选项，在其中找到code runner的编译参数的位置。</p>
+<p>但是此时发现问题，想要修改参数却显示“无法在只读编辑器中编辑”，<br>
+<img src="https://leonccccc.github.io/post-images/1645605271635.jpg" alt="" loading="lazy"><br>
+这是因为defaultSettings.json文件是vscode的默认文件，一般不让修改，但是我们可以将想要修改的地方放到个人设置中。</p>
+<p>具体方法是：将在defalut setting.json中想要修改的内容复制下来，打开搜索setting.json时跳出来的另外一个选项“打开设置”，将代码粘贴进去，并进行修改。<br>
+注意：如果上一个语句结尾没有逗号，一定要记得加上逗号。</p>
+<p>那么此处要进行的修改是在cpp的编译参数后加上</p>
+<pre><code class="language-a">-l ncurses
+</code></pre>
+<p>顺带一提，想要使用c++11的新特性，可以将编译参数修改为：</p>
+<pre><code class="language-a">&quot;cpp&quot;:&quot;cd $dir &amp;&amp; g++ $fileName -o $fileNameWithoutExt -std=c++11 &amp;&amp; $dir$fileNameWithoutExt&quot;
+</code></pre>
+<p>因此在添加了ncurses后的编译参数为：</p>
+<pre><code>&quot;cpp&quot;: &quot;cd $dir &amp;&amp; g++ $fileName -o $fileNameWithoutExt -std=c++11 -l ncurses &amp;&amp; $dir$fileNameWithoutExt&quot;
+</code></pre>
+<p><img src="https://leonccccc.github.io/post-images/1645605379965.jpg" alt="" loading="lazy"><br>
+接着保存setting.json，就能愉快使用curses.h啦～</p>
+]]></content>
+    </entry>
+</feed>
